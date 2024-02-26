@@ -730,12 +730,244 @@ html {
   .nav-menu_active {
     right: 0;
   }
+  /* line 485, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .main-section__header a img {
+    width: 100px;
+    padding-top: 0px;
+  }
+  /* line 488, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .left-wrapper__img {
+    width: 282px;
+    padding-top: 83px;
+  }
+  /* line 491, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .right-wrapper {
+    top: 64px;
+    right: -150px;
+  }
+  /* line 494, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons i {
+    font-size: 32px;
+  }
+  /* line 496, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .right-wrapper__text {
+    padding-left: 15px;
+    width: 286px;
+    font-size: 16px;
+  }
+  /* line 500, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .buttons__main-btn {
+    height: 42px;
+  }
+  /* line 502, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .buttons__icons-btn img {
+    height: 35px;
+  }
+  /* line 504, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section {
+    min-height: 1212px;
+  }
+  /* line 506, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__cards-item {
+    margin-right: 0;
+  }
+  /* line 508, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__icons-item {
+    margin-right: 41px;
+  }
+  /* line 510, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons-item__img {
+    width: 32px;
+    height: 32px;
+    margin-right: 15px;
+  }
+  /* line 514, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons-item__text {
+    font-size: 12px;
+  }
+  /* line 516, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__container {
+    padding-top: 10px;
+  }
+  /* line 518, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__left-title {
+    display: none;
+  }
+  /* line 520, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__right-wrapper {
+    margin-right: 30px;
+    padding-top: 20px;
+  }
+  /* line 523, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__text {
+    font-size: 14px;
+  }
+  /* line 525, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .footer__img {
+    width: 363px;
+    left: -40px;
+    bottom: 31px;
+  }
+  /* line 529, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .footer__title {
+    padding-left: 100px;
+  }
+  /* line 531, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .title__hr {
+    display: none;
+  }
 }
 
 @media (max-width: 575px) {
-  /* line 489, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  /* line 538, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
   .container {
+    width: 100%;
+  }
+  /* line 540, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .main-section__header a img {
     width: 100px;
+    padding-top: 0px;
+  }
+  /* line 543, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .left-wrapper__img {
+    display: none;
+  }
+  /* line 545, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .right-wrapper {
+    top: 64px;
+    right: -113px;
+  }
+  /* line 548, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons i {
+    font-size: 32px;
+  }
+  /* line 550, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .right-wrapper__text {
+    padding-left: 15px;
+    width: 286px;
+    font-size: 16px;
+  }
+  /* line 554, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .main-section__first-elipse {
+    display: none;
+  }
+  /* line 556, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .main-section__second-elipse {
+    top: 219px;
+  }
+  /* line 558, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .buttons__main-btn {
+    height: 42px;
+  }
+  /* line 560, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .buttons__icons-btn img {
+    height: 35px;
+  }
+  /* line 562, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section {
+    min-height: 879px;
+  }
+  /* line 564, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__title {
+    font-size: 45px;
+    padding-left: 90px;
+  }
+  /* line 567, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__cards-box {
+    padding-left: 0;
+  }
+  /* line 569, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .cards-item__img {
+    width: 200px;
+  }
+  /* line 571, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .cards-item {
+    width: 200px;
+    height: 200px;
+  }
+  /* line 574, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .cards-item__text {
+    font-size: 16px;
+    top: 83px;
+    left: -98px;
+  }
+  /* line 578, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__icons-box {
+    display: inline;
+  }
+  /* line 580, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__cards-item {
+    margin-right: 0px;
+  }
+  /* line 582, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .second-section__icons-item {
+    width: 100px;
+    margin-right: 0px;
+    padding-left: 20px;
+  }
+  /* line 586, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons-item__img {
+    width: 32px;
+    height: 32px;
+    margin-right: 5px;
+  }
+  /* line 590, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons-item__text {
+    font-size: 6px;
+  }
+  /* line 592, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .icons-item__text span {
+    font-size: 16px;
+  }
+  /* line 594, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section {
+    min-height: 510px;
+  }
+  /* line 596, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__container {
+    padding-top: 10px;
+    padding-left: 6px;
+  }
+  /* line 599, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__left-title {
+    display: none;
+  }
+  /* line 601, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__right-wrapper {
+    margin-right: 30px;
+    padding-top: 20px;
+  }
+  /* line 604, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__right-title {
+    padding-left: 20px;
+    width: 380px;
+    font-size: 45px;
+    margin-bottom: 23px;
+  }
+  /* line 609, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .third-section__text {
+    font-size: 12px;
+    width: 313px;
+    margin-bottom: 40px;
+  }
+  /* line 613, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .footer__img {
+    width: 271px;
+    left: -75px;
+    bottom: 40px;
+  }
+  /* line 617, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .footer__title {
+    padding-left: 125px;
+    font-size: 45px;
+  }
+  /* line 621, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .title__hr {
+    display: none;
+  }
+  /* line 624, ../../OneDrive/Рабочий стол/HTML&CSS pro/src/sass/style.sass */
+  .footer__icons-box {
+    padding-left: 120px;
   }
 }
 
